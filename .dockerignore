@@ -1,0 +1,11 @@
+venv/
+.venv/
+.pytest_cache/
+.git/
+__pycache__/
+*.pyc
+allure-results/
+config_local.json
+.idea/
+.vscode/
+.env

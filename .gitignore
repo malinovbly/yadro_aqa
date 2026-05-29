@@ -1,0 +1,9 @@
+config_local.json
+venv/
+.venv/
+.pytest_cache/
+__pycache__/
+.idea/
+.vscode/
+allure-results/
+.env
